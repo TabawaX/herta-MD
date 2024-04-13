@@ -1,2 +1,2 @@
-# ninym-ralei-botz
-A Simplek Whatssap Bot
+# Herta Multi Device
+Run with vps
